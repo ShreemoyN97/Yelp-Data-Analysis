@@ -74,6 +74,12 @@ pip install -r requirements.txt
 4. Bulk upload additional datasets into Elasticsearch using the Elasticsearch Notebook.
 5. Visualize the data using Kibana dashboards.
 
+### Dashboard View
+![Full Dashboard](Full_Dashboard.png)
+![Drilling on a City](drill_down_on_city.png)
+![Drilling further on a business](drill_down_on_a_business.png)
+
+
 ## Contributing
 Contributions are welcome! Please create pull requests for enhancements or bug fixes.
 
